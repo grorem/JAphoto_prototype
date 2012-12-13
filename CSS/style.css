@@ -29,6 +29,49 @@ text-align:center;
 
 }
 
+#state {
+
+height:400px;
+background:url("../image/minnesota.png");
+
+
+-moz-transition-property : background;
+-moz-transition-duration:0.7s;
+-webkit-transition-property : background;
+-webkit-transition-duration : 0.7s;
+-o-transition-property : background;
+-o-transition-duration : 0.7s;
+transition-property : background;
+transition-duration : 0.7s;
+
+
+
+}
+
+
+#state:hover{
+color:#08C;
+background:url("../image/minnesotahover.png");
+
+-moz-transition-property : background;
+-moz-transition-duration:0.7s;
+-webkit-transition-property : background;
+-webkit-transition-duration : 0.7s;
+-o-transition-property : background;
+-o-transition-duration : 0.7s;
+transition-property : background;
+transition-duration : 0.7s;
+
+
+
+
+}
+
+#state h4{
+padding-top:350px;
+
+}
+
 #gallery img{
 width:150px;
 height:97px;

@@ -9,6 +9,20 @@
  * Copyright 2011 Janis Skarnelis - janis@fancyapps.com
  *
  */
+ 
+ $(document).ready(function() {
+
+  /*Put your Javascript code here*/
+
+  /*
+    Simple image gallery. Use default settings
+  */
+  $('.fancybox').fancybox();
+
+});
+
+ 
+ 
 (function (window, document, $) {
 	var W = $(window),
 		D = $(document),

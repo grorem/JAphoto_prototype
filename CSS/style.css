@@ -15,7 +15,19 @@ font-size: 13px;
     
 }
 
+#gallery {
 
+
+padding-left:70px;
+
+}
+
+#gallery h4{
+
+text-align:center;
+
+
+}
 
 #gallery img{
 width:150px;

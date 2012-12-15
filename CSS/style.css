@@ -138,7 +138,7 @@ transition-duration : 0.7s;
 
 #header{
 
-    margin-top:40px;
+    margin-top:25px;
     height:105px;
     
 }
@@ -316,7 +316,7 @@ color:white;
 
 #wrapper h1{
 
-font-size:74px;
+font-size:64px;
 
 }
 
@@ -350,8 +350,8 @@ list-style:none;
 #menu li{
 
 margin-left:120px;
-padding:20px 10px;
-height:25px;
+padding:7px 10px;
+height:32px;
 float:left;
 width:95px;
 

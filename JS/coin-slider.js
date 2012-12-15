@@ -284,7 +284,7 @@
 			});						
 
 			$("#cs-buttons-"+el.id).css({
-				'left'			: '50%',
+				'left'			: '4%',
 				'margin-left' 	: -images[el.id].length*15/2-5,
 				'position'		: 'relative'
 				
@@ -469,8 +469,8 @@
 	
 	// default values
 	$.fn.coinslider.defaults = {	
-		width: 736, // width of slider panel
-		height: 441, // height of slider panel
+		width: 796, // width of slider panel
+		height: 501, // height of slider panel
 		spw: 1, // squares per width
 		sph: 1, // squares per height
 		delay: 8000, // delay between images in ms

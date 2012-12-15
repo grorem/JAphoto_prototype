@@ -1135,7 +1135,7 @@
 			if (current.nextEffect === 'elastic') {
 				startPos = F._getPosition(true);
 				startPos.opacity = 0;
-				startPos.top = (parseInt(startPos.top, 10) - 200) + 'px';
+				startPos.top = (parseInt(startPos.top, 10) - 100) + 'px';
 
 				wrap.css(startPos).show().animate({
 					opacity: 1,

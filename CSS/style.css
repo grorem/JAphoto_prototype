@@ -22,6 +22,30 @@ padding-left:70px;
 
 }
 
+#buttons{
+border-right:groove 1px;
+margin-top:50px;
+}
+
+
+#buttons .btn{
+
+border:none;
+padding-bottom:50px;
+margin-left:-40px;
+background:none;
+color:white;
+text-shadow:none;
+box-shadow:none;
+font-family: "antiqua", Arial, sans-serif;
+}
+
+
+#gallery .btn:hover{
+color#08C
+}
+
+
 #gallery h4{
 
 text-align:center;
@@ -114,8 +138,8 @@ transition-duration : 0.7s;
 
 #header{
 
-    margin-top:50px;
-    height:125px;
+    margin-top:40px;
+    height:105px;
     
 }
 
@@ -164,7 +188,7 @@ height:35px;
 }
 
 #blank{
-height:30px;
+height:5px;
 }
 #maincontent{
    

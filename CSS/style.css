@@ -100,7 +100,7 @@ padding-top:350px;
 }
 
 #gallery img{
-width:150px;
+width:100%;
 
 
 opacity:.7;
@@ -112,13 +112,14 @@ opacity:.7;
 -o-transition-duration : 0.7s;
 transition-property : opacity;
 transition-duration : 0.7s;
-margin-top:5px;
+
+margin-top:45px;
 
 }
 
-#gallery .span2{
+#gallery .span3{
 
-margin-right:-15px;
+margin-left:45px;
 
 }
 

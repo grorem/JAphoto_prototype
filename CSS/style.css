@@ -4,8 +4,8 @@ body{
 border-top:solid;
 border-color:#08C;
 border-width:8px;
-    color:white;
-	background:url("../img/blackorchid.png");
+    color:#333333;
+	background:url("../img/gray_jean.png");
     font-family: "antiqua", Arial, sans-serif;
 font-size: 14px;
 line-height: 24px;
@@ -35,7 +35,7 @@ border:none;
 padding-bottom:50px;
 margin-left:-40px;
 background:none;
-color:white;
+color:#333333;
 text-shadow:none;
 box-shadow:none;
 font-family: "antiqua", Arial, sans-serif;
@@ -104,7 +104,7 @@ padding-top:350px;
 width:100%;
 
 
-opacity:.7;
+opacity:.85;
 -moz-transition-property : opacity;
 -moz-transition-duration:0.7s;
 -webkit-transition-property : opacity;
@@ -152,7 +152,7 @@ text-align:center;
 }
 
 #banner a{
-color:white;
+color:#333333;
 -moz-transition-property : color;
 -moz-transition-duration:0.7s;
 -webkit-transition-property : color;
@@ -222,7 +222,7 @@ height:5px;
 
 #footer{
 border-top:groove;
-border-color:white;
+border-color:#333333;
 border-width:1px;
     padding:25px;
     color:#08C;
@@ -306,7 +306,7 @@ padding:0;
 
 a{
 text-decoration:none;
-color:white;
+color:#333333;
 }
 
 #pagewrapper{
@@ -342,7 +342,7 @@ width:1080px;
 float:left;
 border-top:groove;
 border-bottom:groove;
-border-color:white;
+border-color:#333333;
 border-width:1px;
 }
 #menu ul,li{
@@ -380,7 +380,7 @@ position:absolute;
 }
 
 #menu li p{
-color:white;
+color:#333333;
 vertical-align:top;
 text-align:left;
 margin-left:0;
